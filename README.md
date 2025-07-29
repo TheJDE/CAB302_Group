@@ -1,2 +1,2 @@
-# CAB302_Group_
+# CAB302_Group
 need a group number
